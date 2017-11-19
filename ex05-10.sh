@@ -1,3 +1,4 @@
+#!/bin/bash
 type tac
 alias rm
 man rm
